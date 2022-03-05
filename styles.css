@@ -1,0 +1,20 @@
+body {
+    margin: 0; 
+    padding: 0;
+}
+.area__button {
+    color: #fafafa;
+    background-color: #a73fc7;
+    border: none;
+    font-size: 2rem;
+    border-radius: 5px;
+    padding: 1rem;
+    position: absolute;
+    top: 50%;  
+    left: 50%; 
+    transform: translate(-50%, -50%);
+}
+.area__button:hover {
+    cursor: pointer;
+    background-color:rgb(106, 28, 129); 
+}
