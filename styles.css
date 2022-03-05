@@ -2,7 +2,7 @@ body {
     margin: 0; 
     padding: 0;
 }
-.area__button {
+.rotate-button {
     color: #fafafa;
     background-color: #a73fc7;
     border: none;
@@ -14,7 +14,7 @@ body {
     left: 50%; 
     transform: translate(-50%, -50%);
 }
-.area__button:hover {
+.rotate-button:hover {
     cursor: pointer;
     background-color:rgb(106, 28, 129); 
 }

@@ -1,5 +1,5 @@
 // Rotate button
-const rotateButton = document.querySelector('button.area__button');
+const rotateButton = document.querySelector('button.rotate-button');
 rotateButton.addEventListener('click', rotate);
 
 // Canvas
